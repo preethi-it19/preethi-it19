@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @preethi-it19
+- 👀 I’m interested in programming and web designing ...
+- 🌱 I’m currently learning html and css,programming ...
+- 📫 to reach me mail me to preethi.it19@bitsathy.ac.in...
+
+<!---
+preethi-it19/preethi-it19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
